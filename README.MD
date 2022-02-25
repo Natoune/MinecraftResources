@@ -21,8 +21,8 @@ Créez une application Azure [here](https://go.microsoft.com/fwlink/?linkid=2083
 La documentation concernant la connexion Minecraft avec Microsoft est disponible ici [https://wiki.vg/Microsoft_Authentication_Scheme](https://wiki.vg/Microsoft_Authentication_Scheme)  
 
 LOG4J:  
-[https://raw.githubusercontent.com/Natoune/MinecraftResources/main/log4j2_17-111.xml](log4j2_17-111.xml)  
-[https://raw.githubusercontent.com/Natoune/MinecraftResources/main/log4j2_112-116.xml](log4j2_112-116.xml)
+[log4j2_17-111.xml](https://raw.githubusercontent.com/Natoune/MinecraftResources/main/log4j2_17-111.xml)  
+[log4j2_112-116.xml](https://raw.githubusercontent.com/Natoune/MinecraftResources/main/log4j2_112-116.xml)
   
 ### English  
   
@@ -46,5 +46,5 @@ Create an Azure application [here](https://go.microsoft.com/fwlink/?linkid=20839
 Documentation on Minecraft login with Microsoft is available here [https://wiki.vg/Microsoft_Authentication_Scheme](https://wiki.vg/Microsoft_Authentication_Scheme)
 
 LOG4J:  
-[https://raw.githubusercontent.com/Natoune/MinecraftResources/main/log4j2_17-111.xml](log4j2_17-111.xml)  
-[https://raw.githubusercontent.com/Natoune/MinecraftResources/main/log4j2_112-116.xml](log4j2_112-116.xml)
+[log4j2_17-111.xml](https://raw.githubusercontent.com/Natoune/MinecraftResources/main/log4j2_17-111.xml)  
+[log4j2_112-116.xml](https://raw.githubusercontent.com/Natoune/MinecraftResources/main/log4j2_112-116.xml)
