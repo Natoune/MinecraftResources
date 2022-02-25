@@ -19,6 +19,10 @@ URL de Connexion Microsoft:
 EX: https://natoune.tk/r/live/oauth20_authorize/15b75354-e0fd-7dbd-a13b-a71fae9rf8oc/code/XboxLive.signin%20offline_access  
 Créez une application Azure [here](https://go.microsoft.com/fwlink/?linkid=2083908) pour récupérer un client_id et ajoutez une url de redirection avec comme valeur https://natoune.tk/r/live/success/  
 La documentation concernant la connexion Minecraft avec Microsoft est disponible ici [https://wiki.vg/Microsoft_Authentication_Scheme](https://wiki.vg/Microsoft_Authentication_Scheme)  
+
+LOG4J:
+[https://raw.githubusercontent.com/Natoune/MinecraftResources/main/log4j2_17-111.xml](log4j2_17-111.xml)  
+[https://raw.githubusercontent.com/Natoune/MinecraftResources/main/log4j2_112-116.xml](log4j2_112-116.xml)
   
 ### English  
   
