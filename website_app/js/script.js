@@ -7,9 +7,9 @@ function english() {
     document.querySelectorAll('#description').forEach(e => e.setAttribute('content', 'Resources for Minecraft Launcher'));
     document.querySelector('p').innerHTML = 'Miscellaneous resources needed to run Minecraft are stored here.';
     document.querySelector('.doc').setAttribute('href', 'en_doc');
-    document.querySelector('.btn2').innerHTML = '<i class="fa-solid fa-user"></i> Author';
-    document.querySelector('.btn3').innerHTML = '<i class="fa-solid fa-earth-europe"></i> Français';
-    document.querySelector('.btn3').setAttribute('onclick', 'french()');
+    document.querySelector('.btn3').innerHTML = '<i class="fa-solid fa-user"></i> Author';
+    document.querySelector('.btn4').innerHTML = '<i class="fa-solid fa-earth-europe"></i> Français';
+    document.querySelector('.btn4').setAttribute('onclick', 'french()');
 }
 
 function french() {
@@ -19,7 +19,7 @@ function french() {
     document.querySelectorAll('#description').forEach(e => e.setAttribute('content', 'Ressources pour Launcher Minecraft'));
     document.querySelector('p').innerHTML = 'Des ressources diverses nécessaires au fonctionnement de Minecraft sont stockés ici.';
     document.querySelector('.doc').setAttribute('href', 'fr_doc');
-    document.querySelector('.btn2').innerHTML = '<i class="fa-solid fa-user"></i> Auteur';
-    document.querySelector('.btn3').innerHTML = '<i class="fa-solid fa-earth-americas"></i> English';
-    document.querySelector('.btn3').setAttribute('onclick', 'english()');
+    document.querySelector('.btn3').innerHTML = '<i class="fa-solid fa-user"></i> Auteur';
+    document.querySelector('.btn4').innerHTML = '<i class="fa-solid fa-earth-americas"></i> English';
+    document.querySelector('.btn4').setAttribute('onclick', 'english()');
 }

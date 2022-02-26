@@ -63,14 +63,7 @@ h1 {
   --gray: #d8d8d8;
   --green: #3fd50f;
   --yellow: #ecc900;
-  --discord: #5865f2;
-  --instagram1: #cf0057;
-  --instagram2: #8a2bc9;
-  --instagram3: #f2ae4a;
-  --tiktok: #e71c4f;
-  --youtube: #f70f17;
-  --facebook: #4064ac;
-  --twitch: #9046ff;
+  --blue: #5865f2;
 }
 
 button {
@@ -96,7 +89,7 @@ button:hover {
 }
 
 .btn1 {
-  background-color: var(--discord);
+  background-color: var(--blue);
   -webkit-filter: drop-shadow(8px 8px 1px #2b3492);
           filter: drop-shadow(8px 8px 1px #2b3492);
 }
@@ -107,23 +100,34 @@ button:hover {
 }
 
 .btn2 {
+  background-color: #101550;
+  -webkit-filter: drop-shadow(8px 8px 1px #00053a);
+          filter: drop-shadow(8px 8px 1px #00053a);
+}
+
+.btn2:hover {
+  -webkit-filter: drop-shadow(0 0 0 #00053a);
+          filter: drop-shadow(0 0 0 #00053a);
+}
+
+.btn3 {
   background-color: var(--yellow);
   -webkit-filter: drop-shadow(8px 8px 1px #666008);
           filter: drop-shadow(8px 8px 1px #666008);
 }
 
-.btn2:hover {
+.btn3:hover {
   -webkit-filter: drop-shadow(0 0 0 #666008);
           filter: drop-shadow(0 0 0 #666008);
 }
 
-.btn3 {
+.btn4 {
   background-color: var(--green);
   -webkit-filter: drop-shadow(8px 8px 1px #154b03);
           filter: drop-shadow(8px 8px 1px #154b03);
 }
 
-.btn3:hover {
+.btn4:hover {
   -webkit-filter: drop-shadow(0 0 0 #154b03);
           filter: drop-shadow(0 0 0 #154b03);
 }
