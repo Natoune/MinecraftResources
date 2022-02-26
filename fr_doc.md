@@ -1,4 +1,4 @@
-[Accueil](..) > [Documentation](#)
+[Accueil](MinecraftResources) > [Documentation](MinecraftResources/fr_doc)
 
 # Documentation
 
