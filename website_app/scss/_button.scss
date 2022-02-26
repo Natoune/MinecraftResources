@@ -22,11 +22,18 @@ button {
   }
 }
 
-.btn1 {
+.btn0 {
   background-color: var(--blue);
   filter: drop-shadow(8px 8px 1px #2b3492);
   &:hover {
     filter: drop-shadow(0 0 0 #2b3492);
+  }
+}
+.btn1 {
+  background-color: var(--blue);
+  filter: drop-shadow(8px 8px 1px #00053a);
+  &:hover {
+    filter: drop-shadow(0 0 0 #00053a);
   }
 }
 .btn2 {
