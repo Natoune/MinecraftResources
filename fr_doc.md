@@ -1,3 +1,5 @@
+[Accueil](..) > [Documentation](#)
+
 # Documentation
 
 Des ressources diverses nécessaires au fonctionnement de Minecraft sont stockés ici.  
@@ -22,6 +24,6 @@ Le fichier JSON des ressources de Minecraft (voir au-dessus) pointe vers [https:
 Toutes les ressources présentes à l'URL https://resources.download.minecraft.net/ sont répertoriées ici.
 
 
-Fichier de patch Log4j:
-[https://natoune.github.io/MinecraftResources/log4j2_17-111.xml](https://natoune.github.io/MinecraftResources/log4j2_17-111.xml)
+Fichier de patch Log4j:  
+[https://natoune.github.io/MinecraftResources/log4j2_17-111.xml](https://natoune.github.io/MinecraftResources/log4j2_17-111.xml)  
 [https://natoune.github.io/MinecraftResources/log4j2_112-116.xml](https://natoune.github.io/MinecraftResources/log4j2_112-116.xml)
