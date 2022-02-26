@@ -15,7 +15,7 @@ Récupérer la liste des natives de Minecraft (json):
 [https://natoune.github.io/MinecraftResources/versions/{version}/natives/{OS}.json](https://natoune.github.io/MinecraftResources/versions/{version}/natives/{OS}.json)  
 Les systèmes d'exploitations disponibles sont: windows, linux, macos, osx
 
-Récupérer les ressources de Minecraft:  
+Récupérer les ressources de Minecraft (json):  
 [https://natoune.github.io/MinecraftResources/versions/{version}/resources.json](https://natoune.github.io/MinecraftResources/versions/{version}/resources.json)  
 
 
