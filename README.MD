@@ -6,13 +6,13 @@
   
   
 Récupérer les librairies de Minecraft:  
-[https://raw.githubusercontent.com/Natoune/MinecraftResources/main/{version}/libraries.json](https://raw.githubusercontent.com/Natoune/MinecraftResources/main/{version}/libraries.json)  
+[https://natoune.github.io/MinecraftResources/{version}/libraries.json](https://natoune.github.io/MinecraftResources/{version}/libraries.json)  
   
 Récupérer les natives de Minecraft:  
-[https://raw.githubusercontent.com/Natoune/MinecraftResources/main/{version}/natives/{OS}.json](https://raw.githubusercontent.com/Natoune/MinecraftResources/main/{version}/natives/{OS}.json)  
+[https://natoune.github.io/MinecraftResources/{version}/natives/{OS}.json](https://natoune.github.io/MinecraftResources/{version}/natives/{OS}.json)  
   
 Récupérer les ressources de Minecraft:  
-[https://raw.githubusercontent.com/Natoune/MinecraftResources/main/{version}/resources.json](https://raw.githubusercontent.com/Natoune/MinecraftResources/main/{version}/resources.json)  
+[https://natoune.github.io/MinecraftResources/{version}/resources.json](https://natoune.github.io/MinecraftResources/{version}/resources.json)  
   
 URL de Connexion Microsoft:  
 [https://natoune.tk/r/live/oauth20_authorize/{client_id}/{response_type}/{scope}](https://natoune.tk/r/live/oauth20_authorize/{client_id}/{response_type}/{scope})  
@@ -21,8 +21,8 @@ Créez une application Azure [here](https://go.microsoft.com/fwlink/?linkid=2083
 La documentation concernant la connexion Minecraft avec Microsoft est disponible ici [https://wiki.vg/Microsoft_Authentication_Scheme](https://wiki.vg/Microsoft_Authentication_Scheme)  
 
 LOG4J:  
-[log4j2_17-111.xml](https://raw.githubusercontent.com/Natoune/MinecraftResources/main/log4j2_17-111.xml)  
-[log4j2_112-116.xml](https://raw.githubusercontent.com/Natoune/MinecraftResources/main/log4j2_112-116.xml)
+[log4j2_17-111.xml](https://natoune.github.io/MinecraftResources/log4j2_17-111.xml)  
+[log4j2_112-116.xml](https://natoune.github.io/MinecraftResources/log4j2_112-116.xml)
   
 ### English  
   
@@ -31,13 +31,13 @@ LOG4J:
   
   
 Get Minecraft libraries:  
-[https://raw.githubusercontent.com/Natoune/MinecraftResources/main/{version}/libraries.json](https://raw.githubusercontent.com/Natoune/MinecraftResources/main/{version}/libraries.json)  
+[https://natoune.github.io/MinecraftResources/{version}/libraries.json](https://natoune.github.io/MinecraftResources/{version}/libraries.json)  
   
 Get Minecraft natives:  
-[https://raw.githubusercontent.com/Natoune/MinecraftResources/main/{version}/natives/{OS}.json](https://raw.githubusercontent.com/Natoune/MinecraftResources/main/{version}/natives/{OS}.json)  
+[https://natoune.github.io/MinecraftResources/{version}/natives/{OS}.json](https://natoune.github.io/MinecraftResources/{version}/natives/{OS}.json)  
   
 Get Minecraft Resources:  
-[https://raw.githubusercontent.com/Natoune/MinecraftResources/main/{version}/resources.json](https://raw.githubusercontent.com/Natoune/MinecraftResources/main/{version}/resources.json)  
+[https://natoune.github.io/MinecraftResources/{version}/resources.json](https://natoune.github.io/MinecraftResources/{version}/resources.json)  
   
 Microsoft Login URL:  
 [https://natoune.tk/r/live/oauth20_authorize/{client_id}/{response_type}/{scope}](https://natoune.tk/r/live/oauth20_authorize/{client_id}/{response_type}/{scope})  
@@ -46,5 +46,5 @@ Create an Azure application [here](https://go.microsoft.com/fwlink/?linkid=20839
 Documentation on Minecraft login with Microsoft is available here [https://wiki.vg/Microsoft_Authentication_Scheme](https://wiki.vg/Microsoft_Authentication_Scheme)
 
 LOG4J:  
-[log4j2_17-111.xml](https://raw.githubusercontent.com/Natoune/MinecraftResources/main/log4j2_17-111.xml)  
-[log4j2_112-116.xml](https://raw.githubusercontent.com/Natoune/MinecraftResources/main/log4j2_112-116.xml)
+[log4j2_17-111.xml](https://natoune.github.io/MinecraftResources/log4j2_17-111.xml)  
+[log4j2_112-116.xml](https://natoune.github.io/MinecraftResources/log4j2_112-116.xml)
