@@ -6,13 +6,13 @@
   
   
 Récupérer les librairies de Minecraft:  
-[https://natoune.github.io/MinecraftResources/{version}/libraries.json](https://natoune.github.io/MinecraftResources/{version}/libraries.json)  
+[https://natoune.github.io/MinecraftResources/versions/{version}/libraries.json](https://natoune.github.io/MinecraftResources/versions/{version}/libraries.json)  
   
 Récupérer les natives de Minecraft:  
-[https://natoune.github.io/MinecraftResources/{version}/natives/{OS}.json](https://natoune.github.io/MinecraftResources/{version}/natives/{OS}.json)  
+[https://natoune.github.io/MinecraftResources/versions/{version}/natives/{OS}.json](https://natoune.github.io/MinecraftResources/versions/{version}/natives/{OS}.json)  
   
 Récupérer les ressources de Minecraft:  
-[https://natoune.github.io/MinecraftResources/{version}/resources.json](https://natoune.github.io/MinecraftResources/{version}/resources.json)  
+[https://natoune.github.io/MinecraftResources/versions/{version}/resources.json](https://natoune.github.io/MinecraftResources/versions/{version}/resources.json)  
   
 URL de Connexion Microsoft:  
 [https://natoune.tk/r/live/oauth20_authorize/{client_id}/{response_type}/{scope}](https://natoune.tk/r/live/oauth20_authorize/{client_id}/{response_type}/{scope})  
@@ -31,13 +31,13 @@ LOG4J:
   
   
 Get Minecraft libraries:  
-[https://natoune.github.io/MinecraftResources/{version}/libraries.json](https://natoune.github.io/MinecraftResources/{version}/libraries.json)  
+[https://natoune.github.io/MinecraftResources/versions/{version}/libraries.json](https://natoune.github.io/MinecraftResources/versions/{version}/libraries.json)  
   
 Get Minecraft natives:  
-[https://natoune.github.io/MinecraftResources/{version}/natives/{OS}.json](https://natoune.github.io/MinecraftResources/{version}/natives/{OS}.json)  
+[https://natoune.github.io/MinecraftResources/versions/{version}/natives/{OS}.json](https://natoune.github.io/MinecraftResources/versions/{version}/natives/{OS}.json)  
   
 Get Minecraft Resources:  
-[https://natoune.github.io/MinecraftResources/{version}/resources.json](https://natoune.github.io/MinecraftResources/{version}/resources.json)  
+[https://natoune.github.io/MinecraftResources/versions/{version}/resources.json](https://natoune.github.io/MinecraftResources/versions/{version}/resources.json)  
   
 Microsoft Login URL:  
 [https://natoune.tk/r/live/oauth20_authorize/{client_id}/{response_type}/{scope}](https://natoune.tk/r/live/oauth20_authorize/{client_id}/{response_type}/{scope})  
